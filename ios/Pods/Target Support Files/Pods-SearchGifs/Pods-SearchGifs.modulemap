@@ -1,0 +1,6 @@
+module Pods_SearchGifs {
+  umbrella header "Pods-SearchGifs-umbrella.h"
+
+  export *
+  module * { export * }
+}
